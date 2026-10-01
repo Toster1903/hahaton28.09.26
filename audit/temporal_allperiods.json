@@ -1,0 +1,16 @@
+{
+  "tag": "temporal_allperiods",
+  "mode": "temporal",
+  "model": "soft",
+  "drop": [],
+  "leaves": 63,
+  "best_iteration": 6,
+  "dev": 0.4122268523694735,
+  "audit": 0.4047297018997225,
+  "audit_cold": 0.22359553701400922,
+  "audit_warm": 0.4122769587699605,
+  "audit_cold_n": 24,
+  "dev_cold": 0.4293351573168243,
+  "dev_warm": 0.41167497156472016,
+  "full_temporal_tuned": 0.42066251207149225
+}

@@ -1,0 +1,16 @@
+{
+  "tag": "temporal_exact_content",
+  "mode": "temporal",
+  "model": "soft",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 256,
+  "dev": 0.39134701444924835,
+  "audit": 0.3988328641210461,
+  "audit_cold": 0.12367233553370897,
+  "audit_warm": 0.41029788614551843,
+  "audit_cold_n": 24,
+  "dev_cold": 0.13329770981045377,
+  "dev_warm": 0.3996711855666288,
+  "full_temporal_tuned": 0.4127686405167372
+}

@@ -2,3 +2,6 @@ __pycache__/
 .venv/
 work/
 *.cbm
+.DS_Store
+.env
+.env.*

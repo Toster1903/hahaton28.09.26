@@ -1,0 +1,15 @@
+{
+  "tag": "mixed_history",
+  "mode": "mixed",
+  "model": "soft",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 240,
+  "dev": 0.48832218391820814,
+  "audit": 0.4957603641962036,
+  "audit_cold": 0.18010723362284753,
+  "audit_warm": 0.5089125779700934,
+  "audit_cold_n": 24,
+  "dev_cold": 0.17086581334011586,
+  "dev_warm": 0.4985627120013724
+}

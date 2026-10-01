@@ -1,0 +1,24 @@
+{
+  "tag": "temporal_generalized",
+  "mode": "temporal",
+  "model": "soft",
+  "drop": [
+    "module",
+    "global_count",
+    "recent_count",
+    "institute_count",
+    "specialty_count",
+    "previous_institute_students",
+    "previous_specialty_students"
+  ],
+  "leaves": 63,
+  "best_iteration": 38,
+  "dev": 0.4024384865044231,
+  "audit": 0.38757597889076906,
+  "audit_cold": 0.1773735028021782,
+  "audit_warm": 0.3963344153944603,
+  "audit_cold_n": 24,
+  "dev_cold": 0.19160179666563118,
+  "dev_warm": 0.40923967004760997,
+  "full_temporal_tuned": 0.4155845444482038
+}

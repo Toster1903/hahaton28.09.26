@@ -1,0 +1,8 @@
+{
+  "full_period3_n": 3043,
+  "final_ensemble_temporal_full": 0.41794936186333037,
+  "final_ensemble_temporal_audit600": 0.4049420584066003,
+  "cold_full": 0.3431628134676965,
+  "warm_full": 0.42017650780540006,
+  "protocol": "Train on period2 only, fixed final ensemble settings; predict period3. Settings were selected using period3 elsewhere; not a pristine final holdout."
+}

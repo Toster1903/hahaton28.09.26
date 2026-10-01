@@ -1,0 +1,49 @@
+{
+  "p2cold": {
+    "score": 0.25624195694158686,
+    "top": [
+      "m_092",
+      "m_142",
+      "m_179",
+      "m_053",
+      "m_222"
+    ]
+  },
+  "p2all": {
+    "score": 0.3431628134676965,
+    "top": [
+      "m_092",
+      "m_119",
+      "m_179",
+      "m_053",
+      "m_039"
+    ]
+  },
+  "cold_crossfit_smooth0": {
+    "score": 0.3320293900822259
+  },
+  "cold_crossfit_smooth10": {
+    "score": 0.3282548886153005
+  },
+  "cold_crossfit_smooth30": {
+    "score": 0.3414453706776211
+  },
+  "cold_crossfit_smooth100": {
+    "score": 0.34488685647634193
+  },
+  "cold_crossfit_smooth300": {
+    "score": 0.31135286439541043
+  },
+  "cold_crossfit_smooth10000": {
+    "score": 0.27069504393959315
+  },
+  "cold_greedy_smooth30": {
+    "score": 0.33973435685253955
+  },
+  "cold_greedy_smooth100": {
+    "score": 0.3330029055459844
+  },
+  "cold_greedy_smooth300": {
+    "score": 0.3051140053310602
+  }
+}

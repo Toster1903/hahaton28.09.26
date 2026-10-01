@@ -1,0 +1,15 @@
+{
+  "tag": "mixed_allperiods",
+  "mode": "mixed",
+  "model": "soft",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 335,
+  "dev": 0.5165819678840634,
+  "audit": 0.5122618413367589,
+  "audit_cold": 0.2143727280542326,
+  "audit_warm": 0.5246738877235309,
+  "audit_cold_n": 24,
+  "dev_cold": 0.20808833269237784,
+  "dev_warm": 0.5265333754708921
+}

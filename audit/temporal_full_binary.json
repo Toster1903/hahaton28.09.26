@@ -1,0 +1,16 @@
+{
+  "tag": "temporal_full_binary",
+  "mode": "temporal",
+  "model": "binary",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 11,
+  "dev": 0.39962881806850425,
+  "audit": 0.3934121648397534,
+  "audit_cold": 0.1974126346145267,
+  "audit_warm": 0.40157881193247125,
+  "audit_cold_n": 24,
+  "dev_cold": 0.2820183062039385,
+  "dev_warm": 0.4034227055480064,
+  "full_temporal_tuned": 0.41601713424957776
+}

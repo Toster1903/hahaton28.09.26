@@ -1,0 +1,15 @@
+{
+  "tag": "mixed_content",
+  "mode": "mixed",
+  "model": "soft",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 256,
+  "dev": 0.518666474749651,
+  "audit": 0.519768289466965,
+  "audit_cold": 0.2763124349335873,
+  "audit_warm": 0.5299122834058556,
+  "audit_cold_n": 24,
+  "dev_cold": 0.4011677517314672,
+  "dev_warm": 0.5224567561373342
+}

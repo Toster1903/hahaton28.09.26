@@ -1,0 +1,15 @@
+{
+  "tag": "mixed_full_binary",
+  "mode": "mixed",
+  "model": "binary",
+  "drop": [],
+  "leaves": 127,
+  "best_iteration": 469,
+  "dev": 0.5161965228363279,
+  "audit": 0.5183179361961178,
+  "audit_cold": 0.23598210348076085,
+  "audit_warm": 0.5300819292259243,
+  "audit_cold_n": 24,
+  "dev_cold": 0.2524046745627825,
+  "dev_warm": 0.5247059372967648
+}

@@ -1,0 +1,25 @@
+{
+  "tag": "temporal_exact_base",
+  "mode": "temporal",
+  "model": "soft",
+  "drop": [
+    "content_global_rate",
+    "content_recent_rate",
+    "content_institute_rate",
+    "content_specialty_rate",
+    "smoothed_global_rate",
+    "smoothed_institute_rate",
+    "smoothed_specialty_rate",
+    "course_age"
+  ],
+  "leaves": 127,
+  "best_iteration": 410,
+  "dev": 0.3843565026948381,
+  "audit": 0.3932664153633618,
+  "audit_cold": 0.14731386141305738,
+  "audit_warm": 0.4035144384446245,
+  "audit_cold_n": 24,
+  "dev_cold": 0.12425981420289786,
+  "dev_warm": 0.3927467184526427,
+  "full_temporal_tuned": 0.4072443317884871
+}

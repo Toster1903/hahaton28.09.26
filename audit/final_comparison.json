@@ -1,0 +1,21 @@
+{
+  "audit_n": 600,
+  "old": 0.44267925968894645,
+  "new": 0.5259496022224928,
+  "difference": 0.08327034253354632,
+  "relative_improvement": 0.1881053623159512,
+  "paired_bootstrap_95": [
+    0.058844436053708406,
+    0.10767667250678417
+  ],
+  "cold_n": 24,
+  "new_cold": 0.34740999625612257,
+  "new_warm": 0.5333887524710915,
+  "old_cold": 0.11244019885258183,
+  "old_warm": 0.4564392205571283,
+  "test_cold_share": 0.35206688341848585,
+  "new_reweighted_diagnostic": 0.467911791388441,
+  "old_reweighted_diagnostic": 0.33532855708660053,
+  "reported_public_previous": 0.30869875537635866,
+  "public_new": null
+}

@@ -1,0 +1,6 @@
+{
+  "train_period3_students": 0,
+  "audit_n": 600,
+  "original_temporal_audit_score": 0.3530516922941832,
+  "protocol": "Train original model on period2 only; score the fixed 600-student period3 audit group"
+}

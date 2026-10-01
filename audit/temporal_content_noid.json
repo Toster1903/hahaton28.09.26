@@ -1,0 +1,18 @@
+{
+  "tag": "temporal_content_noid",
+  "mode": "temporal",
+  "model": "soft",
+  "drop": [
+    "module"
+  ],
+  "leaves": 63,
+  "best_iteration": 100,
+  "dev": 0.39498362880481486,
+  "audit": 0.3944136853292568,
+  "audit_cold": 0.16657589391897473,
+  "audit_warm": 0.4039069266380186,
+  "audit_cold_n": 24,
+  "dev_cold": 0.12369465877616904,
+  "dev_warm": 0.4037348859025131,
+  "full_temporal_tuned": 0.41821856208314745
+}

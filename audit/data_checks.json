@@ -1,0 +1,44 @@
+{
+  "train": {
+    "rows": 5002,
+    "cold": 0,
+    "history_counts": {
+      "2": 3103,
+      "1": 1899
+    }
+  },
+  "val": {
+    "rows": 3043,
+    "cold": 88,
+    "history_counts": {
+      "2": 1424,
+      "1": 1531,
+      "0": 88
+    }
+  },
+  "test": {
+    "rows": 4306,
+    "cold": 1516,
+    "history_counts": {
+      "0": 1516,
+      "3": 1310,
+      "2": 1393,
+      "1": 87
+    }
+  },
+  "history_consistency": "all shared student/period records match; test period3 matches val labels",
+  "metric": "official cap-at-one weighted DCG; 1000 randomized comparisons passed",
+  "label_cutoff": "period3 label permutation leaves period3 features unchanged",
+  "cold_fraction": {
+    "val": 0.028918830101873152,
+    "test": 0.35206688341848585
+  },
+  "new_modules": {
+    "2": 52,
+    "3": 38,
+    "4": 36
+  },
+  "exposure_rates": "four representative module denominators independently recomputed",
+  "archive_sha256": "ecbb9b9554515380d1032a7c4a4cc7553ee8c2e43cbce63799f1afa8aa353815",
+  "official_metric_sha256": "63bd791fd3b2287f4e4723babd0ee8cd997078ee8fe6d12c8b2e40232fbbb05b"
+}
